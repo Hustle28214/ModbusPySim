@@ -1,0 +1,2 @@
+# ModbusPySim
+Labview和Python实现的Modbus通讯模拟
